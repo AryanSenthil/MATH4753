@@ -10,3 +10,4 @@
 myquad <- function(x){
   x^2 - 5*x+6
 }
+
